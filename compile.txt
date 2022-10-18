@@ -1,0 +1,1 @@
+clang++ main.cpp hello_world.cpp -o main.exe `pkg-config gtkmm-3.0 --cflags --libs`
